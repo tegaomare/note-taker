@@ -44,6 +44,10 @@ command: npm i
 
 13. Empty fields to enter a new note title and the note's text will be presented in the right-hand column.
 
+## link
+
+https://cbc-note-taker-4b01681eda81.herokuapp.com/
+
 ## license
 
 MIT
