@@ -1,5 +1,7 @@
 # Note Taker
 
+<img src="./images/webpage.png" alt="webpage picture" >
+
 ## Description
 
 This is a simple note-taking application that allows users to create, save, and view notes. The application provides a user-friendly interface to manage and organize your thoughts effectively.
